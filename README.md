@@ -2,7 +2,7 @@
 
 ## Descrição
 
-    O aumento do nível dos rios pode causar enchentes e gerar sérios prejuízos 
+O aumento do nível dos rios pode causar enchentes e gerar sérios prejuízos 
 à população. Por isso, prever esse comportamento é fundamental para a criação de 
 sistemas de alerta e medidas preventivas. Neste trabalho, utilizamos dados reais da 
 variação do nível do rio Itajaí-Açu durante a enchente de 2008 para modelar 
