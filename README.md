@@ -1,5 +1,8 @@
 # Edge-Computing
 
+Lucas Santana Silva - RM: 566261
+Pedro Henrique Lamin Rodrigues - RM: 566379
+
 ## Descrição
 
 O aumento do nível dos rios pode causar enchentes e gerar sérios prejuízos 
