@@ -1,6 +1,6 @@
 # Edge-Computing
 
-Lucas Santana Silva - RM: 566261
+Lucas Santana Silva - RM: 566261<br>
 Pedro Henrique Lamin Rodrigues - RM: 566379
 
 ## Descrição
